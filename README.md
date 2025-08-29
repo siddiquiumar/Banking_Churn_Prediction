@@ -10,9 +10,9 @@ This project predicts whether a bank customer is likely to churn (leave the bank
 - Exploratory Data Analysis (EDA) with visualizations
 - Feature engineering and selection
 - Model training and evaluation using:
-  - Logistic Regression
-  - Random Forest
-  - Gradient Boosting
+  - ANN
+  - XGBoost
+  - Threshold tuning
 - Performance metrics: Accuracy, Precision, Recall, F1-score
 
 ## Tech Stack
